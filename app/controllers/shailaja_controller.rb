@@ -1,0 +1,2 @@
+class ShailajaController < ApplicationController
+end
